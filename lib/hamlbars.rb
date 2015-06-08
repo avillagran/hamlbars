@@ -1,5 +1,6 @@
 require 'haml'
 require 'sprockets'
+require 'sprockets/engines'
 
 module Hamlbars
 
